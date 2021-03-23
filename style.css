@@ -38,3 +38,15 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 10px;
+    color: white;
+}
+#player_question, #player_answer{
+    color: white;
+}
+#player1_score, #player2_score{
+    color: white;
+}
